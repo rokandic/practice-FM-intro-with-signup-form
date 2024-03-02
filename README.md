@@ -25,5 +25,4 @@ The goal of this practice project was to create a form and validate all the inpu
 - Semantic HTML5 markup
 - CSS custom properties 
 - Flexbox
-- Mobile-first workflow
 - JavaScript
