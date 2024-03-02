@@ -10,7 +10,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
   - [Built with](#built-with)
 
 ## Overview
-The goal of this practice project was to create a form and validate all the input fields when submitting the form by pressing the button. If any input field is invalid it will display which input was invalid. If all the inputs are in valid format, it will reset the input fields.
+The goal of this practice project was to create a form and validate all the input fields when submitting the form by pressing the button. If any input field is invalid it will display which input was invalid. If all inputs are in valid format, it will reset the input fields.
 
 ### Screenshot
 
