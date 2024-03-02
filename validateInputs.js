@@ -38,7 +38,6 @@ function validateInputs(event) {
   form.focus();
 
   if (everythingValid) {
-    alert("All fields entered correctly.");
     for( let input of inputs) {
       input.value = "";
     }
